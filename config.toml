@@ -1,0 +1,7 @@
+baseURL = "https://www.codewitcher.com/"
+languageCode = "zh-CN"
+title = "Code Witcher"
+
+[params]
+  description = "some programming thoguht"
+  author = "Neo Ko"
